@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Avalanche",
+    "chainId": 43113,
+    "rpc": "https://api.avax-test.network/ext/bc/C/rpc",
+    "gateway": "0xC249632c2D40b9001FE907806902f63038B737Ab",
+    "gasReceiver": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+    "tokenName": "Avax",
+    "tokenSymbol": "AVAX",
+    "executableSample": "0xE7C5eEB7E8E9463b833eb23744924B31108c7487",
+    "constAddressDeployer": "0xd5bf7311032fe5dde956de6f2916f135a140e7dd",
+    "crossChainToken": "0x9bDFDd876D78927b6DFB4b6b064535fFFEAdB9C0"
+  },
+  {
+    "name": "Polygon",
+    "chainId": 80001,
+    "gateway": "0xBF62ef1486468a6bd26Dd669C06db43dEd5B849B",
+    "rpc": "https://polygon-mumbai.g.alchemy.com/v2/Ksd4J1QVWaOJAJJNbr_nzTcJBJU-6uP3",
+    "gasReceiver": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+    "tokenName": "Matic",
+    "tokenSymbol": "MATIC",
+    "executableSample": "0xDFcA8ca7EF650ba868E4fA86E6FFA66F9a9daf6c",
+    "constAddressDeployer": "0xd5bf7311032fe5dde956de6f2916f135a140e7dd",
+    "crossChainToken": "0x9bDFDd876D78927b6DFB4b6b064535fFFEAdB9C0"
+  }
+]

@@ -1,0 +1,4 @@
+Deploying ERC20CrossChain for Avalanche.
+Deploying ERC20CrossChain for Polygon.
+Deployed ERC20CrossChain for Avalanche at 0xA03f6F055098EcE542a3DFfb54669875a254D81E.
+Deployed ERC20CrossChain for Polygon at 0xA03f6F055098EcE542a3DFfb54669875a254D81E.
